@@ -1,0 +1,41 @@
+GAMEHISTORY — PROJETO ACADÊMICO
+================================
+
+COMO EXECUTAR
+1. Extraia a pasta GameHistory do arquivo ZIP.
+2. Abra index.html em um navegador atualizado.
+3. Navegue pelo menu superior ou pelos botões no fim dos capítulos.
+
+TECNOLOGIAS DO SITE
+- HTML5: estrutura e conteúdo das cinco páginas independentes.
+- CSS3: layout, cores, responsividade, cartões, transições e identidade visual.
+- JavaScript: menu mobile, linha do tempo interativa e quiz com pontuação.
+
+O site não utiliza frameworks ou linguagens adicionais de execução. O vídeo e o áudio são arquivos de mídia reproduzidos pelas tags HTML <video> e <audio>. Ferramentas externas foram usadas somente para produzir os arquivos de mídia, não para executar o site.
+
+PÁGINAS HTML
+- index.html — página inicial, linha do tempo, imagem, áudio e vídeo.
+- primeira-geracao.html — experimentos iniciais, Magnavox Odyssey e Pong.
+- era-de-ouro.html — Atari, Nintendo, cultura dos arcades e personagens.
+- revolucao-3d.html — PlayStation, Nintendo 64 e PlayStation 2.
+- era-moderna.html — jogos online, nuvem, realidade virtual e quiz.
+
+MÍDIAS AUTORAIS E COMO FORAM CRIADAS
+1. img/linha-do-tempo-original.svg — infográfico criado para o trabalho. Foi desenhado manualmente em SVG, usando formas vetoriais, linhas, textos, cores e marcos cronológicos.
+2. audio/trilha-original.wav — composição curta original criada por síntese digital de ondas sonoras em frequências diferentes, organizadas em uma sequência melódica.
+3. video/apresentacao-gamehistory.mp4 — vídeo original de aproximadamente 27 segundos, com seis cenas gráficas criadas para este trabalho. As cenas receberam movimento suave de aproximação, transições graduais e a trilha sonora original. A montagem foi renderizada em MP4 (H.264/AAC).
+
+CRÉDITOS DAS IMAGENS EXTERNAS
+As fotografias abaixo são de terceiros e não são apresentadas como produção própria. Os links levam às páginas de origem, onde estão os detalhes de autoria e licença.
+- Magnavox Odyssey: Evan-Amos, domínio público. https://commons.wikimedia.org/wiki/File:Magnavox-Odyssey-Console-Set.jpg
+- Máquina de Pong: fotografia original de Rob Boudon, recortada/ajustada por Ubcule; licença Creative Commons Attribution 2.0 (CC BY 2.0). As alterações consistem em recorte e ajustes de imagem. https://commons.wikimedia.org/wiki/File:Atari_Pong_arcade_game_cabinet.jpg | Licença: https://creativecommons.org/licenses/by/2.0/
+- Atari 2600: Evan-Amos, domínio público. https://commons.wikimedia.org/wiki/File:Atari-2600-Woody-BR.jpg
+- Nintendo Entertainment System (NES): Evan-Amos, domínio público. https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg
+- Sony PlayStation SCPH-1000: Evan-Amos, domínio público. https://commons.wikimedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg
+- Nintendo 64: Evan-Amos, domínio público. https://commons.wikimedia.org/wiki/File:N64-Console-Set.jpg
+- PlayStation 2 Slim SCPH-90001 (vista frontal): Evan-Amos, domínio público. https://commons.wikimedia.org/wiki/File:Sony-PlayStation-2-90001-Console-FL.jpg
+- Fotografia de amigos jogando: Ron Lach / Pexels. https://www.pexels.com/photo/people-playing-games-together-7856023/ | Termos: https://www.pexels.com/license/
+
+OBSERVAÇÕES
+- As fotografias do Wikimedia Commons e a fotografia do Pexels são carregadas pela internet. Portanto, é necessário estar conectado para visualizá-las.
+- O infográfico SVG, a trilha WAV e o vídeo MP4 estão armazenados dentro do ZIP.
